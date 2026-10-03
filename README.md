@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehenseleit
 - 👀 I’m interested in learning automation for quality assurance purposes and cybersecurity
-- 🌱 I’m currently learning python and c++
+- 🌱 I’m currently learning python.
 - 📫 How to reach me @ Ethan Henseleit on Linkedin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I collect original xbox hardware and games!
